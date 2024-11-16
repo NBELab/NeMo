@@ -11,5 +11,5 @@ Original notebooks form [nengo.ai](https://www.nengo.ai/) [examples](https://git
 5) Transformation: input squaring ([tutorial 4](https://github.com/NBELab/NeMo/blob/main/tutorials/squaring.ipynb))
 6) Dynamics: integrators and oscillators ([tutorial 5](https://github.com/NBELab/NeMo/blob/main/tutorials/integrator.ipynb)) and ([tutorial 6](https://github.com/NBELab/NeMo/blob/main/tutorials/oscillator.ipynb))
 7) Neuromorphic real time learning with Prescribed Error Sensitivity ([tutorial 7](https://github.com/NBELab/NeMo/blob/main/tutorials/learn_communication_channel.ipynb)) and ([tutorial 8](https://github.com/NBELab/NeMo/blob/main/tutorials/learn_product.ipynb))
-8) Importing data to Nengo ([tutorial 8](https://github.com/NBELab/NeMo/blob/main/tutorials/image_input.ipynb))
-9) Working with event cameras ([tutorial 9](https://github.com/NBELab/NeMo/blob/main/tutorials/dvs_from_file.ipynb))
+8) Importing data to Nengo ([tutorial 9](https://github.com/NBELab/NeMo/blob/main/tutorials/image_input.ipynb))
+9) Working with event cameras ([tutorial 10](https://github.com/NBELab/NeMo/blob/main/tutorials/dvs_from_file.ipynb))
