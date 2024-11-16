@@ -1,6 +1,6 @@
 # Practice - Neural Engineering Framework (NEF)
 
-original notebooks form [nengo.ai](https://www.nengo.ai/) [examples](https://github.com/nengo/nengo/tree/main/docs/examples)
+Original notebooks form [nengo.ai](https://www.nengo.ai/) [examples](https://github.com/nengo/nengo/tree/main/docs/examples)
 
 ## Hands-On tutorials based on Git-deployed Collab notebooks
 
