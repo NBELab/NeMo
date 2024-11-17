@@ -2,8 +2,7 @@
 
 Original notebooks form [nengo.ai](https://www.nengo.ai/) [examples](https://github.com/nengo/nengo/tree/main/docs/examples)
 
-## Hands-On tutorials based on Git-deployed Colab notebooks
-
+## Hands-On tutorials 
 1) Introducing Nengo and the relevant libraries
 2) Neuromorphic representation with a single neuron ([tutorial 1](https://github.com/NBELab/NeMo/blob/main/tutorials/A_single_neuron.ipynb))
 3) Distributed representation with numerous neurons ([tutorial 2](https://github.com/NBELab/NeMo/blob/main/tutorials/Many_neurons.ipynb))
